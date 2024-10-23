@@ -20,11 +20,11 @@ class Single_Campaign{
                     ),
                     'textColor' => array(
                         'type'          => 'string',
-                        'default'       => '#94c94a',
+                        'default'       => '#18CE43',
                     ),
                     'bgColor'   => array(
                         'type'          => 'string',
-                        'default'       => '#94c94a',
+                        'default'       => '#18CE43',
                     ),
                 ),
                 'render_callback' => array( $this, 'single_campaign_block_callback' ),
