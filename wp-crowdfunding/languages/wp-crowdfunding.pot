@@ -6,7 +6,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Creation-Date: 2025-04-30 07:25+0000\n"
+"POT-Creation-Date: 2025-05-21 10:18+0000\n"
 "X-Poedit-Basepath: ..\n"
 "X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
 "X-Poedit-SearchPath-0: .\n"
@@ -62,63 +62,63 @@ msgstr ""
 msgid "version is below then 3.0, please update."
 msgstr ""
 
-#: includes/register_api_hook.php:228, shortcode/Dashboard.php:133, includes/blocks/Dashboard.php:179
+#: includes/register_api_hook.php:228, shortcode/Dashboard.php:133, includes/blocks/Dashboard.php:183
 msgid "Please log in first?"
 msgstr ""
 
-#: includes/register_api_hook.php:228, shortcode/Dashboard.php:133, includes/blocks/Dashboard.php:179
+#: includes/register_api_hook.php:228, shortcode/Dashboard.php:133, includes/blocks/Dashboard.php:183
 msgid "Click here to login"
 msgstr ""
 
-#: includes/register_api_hook.php:116, shortcode/Dashboard.php:21, includes/blocks/Dashboard.php:43
+#: includes/register_api_hook.php:116, shortcode/Dashboard.php:21, includes/blocks/Dashboard.php:46
 msgid "Dashboard"
 msgstr ""
 
-#: includes/register_api_hook.php:121, shortcode/Dashboard.php:26, includes/blocks/Dashboard.php:48, includes/woocommerce/Account_Dashboard.php:45
+#: includes/register_api_hook.php:121, shortcode/Dashboard.php:26, includes/blocks/Dashboard.php:51, includes/woocommerce/Account_Dashboard.php:45
 msgid "Profile"
 msgstr ""
 
-#: includes/register_api_hook.php:126, shortcode/Dashboard.php:31, includes/blocks/Dashboard.php:53
+#: includes/register_api_hook.php:126, shortcode/Dashboard.php:31, includes/blocks/Dashboard.php:56
 msgid "Contact"
 msgstr ""
 
-#: includes/register_api_hook.php:131, shortcode/Dashboard.php:36, includes/blocks/Dashboard.php:58, includes/woocommerce/Account_Dashboard.php:46, includes/woocommerce/dashboard/dashboard.php:25
+#: includes/register_api_hook.php:131, shortcode/Dashboard.php:36, includes/blocks/Dashboard.php:61, includes/woocommerce/Account_Dashboard.php:46, includes/woocommerce/dashboard/dashboard.php:25
 msgid "My Campaigns"
 msgstr ""
 
-#: includes/register_api_hook.php:136, shortcode/Dashboard.php:41, includes/blocks/Dashboard.php:63
+#: includes/register_api_hook.php:136, shortcode/Dashboard.php:41, includes/blocks/Dashboard.php:66
 msgid "My Invested Campaigns"
 msgstr ""
 
-#: includes/register_api_hook.php:141, shortcode/Dashboard.php:46, includes/blocks/Dashboard.php:68, includes/woocommerce/Account_Dashboard.php:48
+#: includes/register_api_hook.php:141, shortcode/Dashboard.php:46, includes/blocks/Dashboard.php:71, includes/woocommerce/Account_Dashboard.php:48
 msgid "Pledges Received"
 msgstr ""
 
-#: includes/register_api_hook.php:146, shortcode/Dashboard.php:51, includes/blocks/Dashboard.php:73, includes/woocommerce/Account_Dashboard.php:49
+#: includes/register_api_hook.php:146, shortcode/Dashboard.php:51, includes/blocks/Dashboard.php:76, includes/woocommerce/Account_Dashboard.php:49
 msgid "Bookmarks"
 msgstr ""
 
-#: includes/register_api_hook.php:151, shortcode/Dashboard.php:56, includes/blocks/Dashboard.php:78
+#: includes/register_api_hook.php:151, shortcode/Dashboard.php:56, includes/blocks/Dashboard.php:81
 msgid "Password"
 msgstr ""
 
-#: includes/register_api_hook.php:156, shortcode/Dashboard.php:61, includes/blocks/Dashboard.php:83, includes/woocommerce/dashboard/investment.php:45, includes/woocommerce/dashboard/investment.php:123, includes/woocommerce/dashboard/order.php:55, wpcftemplate/woocommerce/basic/include/tabs/rewards-sidebar-form.php:12
+#: includes/register_api_hook.php:156, shortcode/Dashboard.php:61, includes/blocks/Dashboard.php:86, includes/woocommerce/dashboard/investment.php:45, includes/woocommerce/dashboard/investment.php:123, includes/woocommerce/dashboard/order.php:55, wpcftemplate/woocommerce/basic/include/tabs/rewards-sidebar-form.php:12
 msgid "Rewards"
 msgstr ""
 
-#: includes/register_api_hook.php:188, shortcode/Dashboard.php:93, includes/blocks/Dashboard.php:117
+#: includes/register_api_hook.php:188, shortcode/Dashboard.php:93, includes/blocks/Dashboard.php:123
 msgid "My Account"
 msgstr ""
 
-#: includes/register_api_hook.php:191, shortcode/Dashboard.php:96, includes/blocks/Dashboard.php:120
+#: includes/register_api_hook.php:191, shortcode/Dashboard.php:96, includes/blocks/Dashboard.php:126
 msgid "Logout"
 msgstr ""
 
-#: includes/register_api_hook.php:194, shortcode/Dashboard.php:99, includes/blocks/Dashboard.php:123, wpcftemplate/woocommerce/basic/include/creator-info.php:28
+#: includes/register_api_hook.php:194, shortcode/Dashboard.php:99, includes/blocks/Dashboard.php:129, wpcftemplate/woocommerce/basic/include/creator-info.php:28
 msgid "Campaigns"
 msgstr ""
 
-#: includes/register_api_hook.php:200, shortcode/Dashboard.php:105, includes/blocks/Dashboard.php:129
+#: includes/register_api_hook.php:200, shortcode/Dashboard.php:105, includes/blocks/Dashboard.php:135
 msgid "Add New Campaign"
 msgstr ""
 
@@ -630,7 +630,7 @@ msgstr ""
 msgid "Website is not a valid URL"
 msgstr ""
 
-#: shortcode/Search.php:18, shortcode/Search.php:24, includes/blocks/Search.php:71, includes/blocks/Search.php:75, includes/woocommerce/dashboard/wpcrowd-reports-chart.php:208
+#: shortcode/Search.php:18, shortcode/Search.php:24, includes/blocks/Search.php:68, includes/blocks/Search.php:72, includes/woocommerce/dashboard/wpcrowd-reports-chart.php:208
 msgid "Search"
 msgstr ""
 
