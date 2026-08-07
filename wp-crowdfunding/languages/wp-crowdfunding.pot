@@ -1,4 +1,4 @@
-# Copyright (C) 2025 WP Crowdfunding
+# Copyright (C) 2026 WP Crowdfunding
 # This file is distributed under the same license as the WP Crowdfunding package.
 msgid ""
 msgstr ""
@@ -6,7 +6,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Creation-Date: 2025-07-30 07:33+0000\n"
+"POT-Creation-Date: 2026-08-07 06:22+0000\n"
 "X-Poedit-Basepath: ..\n"
 "X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
 "X-Poedit-SearchPath-0: .\n"
@@ -26,40 +26,84 @@ msgstr ""
 msgid "WP Crowdfunding"
 msgstr ""
 
-#: includes/Initial_Setup.php:320, includes/Initial_Setup.php:350
+#: includes/Initial_Setup.php:321, includes/Initial_Setup.php:351
 msgid "Thanks for using WP Crowdfunding"
 msgstr ""
 
-#: includes/Initial_Setup.php:324, includes/Initial_Setup.php:354
+#: includes/Initial_Setup.php:325, includes/Initial_Setup.php:355
 msgid "You must have"
 msgstr ""
 
-#: includes/Initial_Setup.php:326, includes/Initial_Setup.php:356, includes/Initial_Setup.php:434
+#: includes/Initial_Setup.php:327, includes/Initial_Setup.php:357, includes/Initial_Setup.php:435
 msgid "WooCommerce"
 msgstr ""
 
-#: includes/Initial_Setup.php:327, includes/Initial_Setup.php:357
+#: includes/Initial_Setup.php:328, includes/Initial_Setup.php:358
 msgid "installed and activated on this website in order to use WP Crowdfunding."
 msgstr ""
 
-#: includes/Initial_Setup.php:330, includes/Initial_Setup.php:360
+#: includes/Initial_Setup.php:331, includes/Initial_Setup.php:361
 msgid "Learn more about WP Crowdfunding"
 msgstr ""
 
-#: includes/Initial_Setup.php:333
+#: includes/Initial_Setup.php:334
 msgid "Activate WooCommerce"
 msgstr ""
 
-#: includes/Initial_Setup.php:363
+#: includes/Initial_Setup.php:364
 msgid "Install WooCommerce"
 msgstr ""
 
-#: includes/Initial_Setup.php:432
+#: includes/Initial_Setup.php:433
 msgid "Your"
 msgstr ""
 
-#: includes/Initial_Setup.php:435
+#: includes/Initial_Setup.php:436
 msgid "version is below then 3.0, please update."
+msgstr ""
+
+#: includes/MigrateIntoGrowfund.php:245
+msgid "IMPORTANT NOTICE"
+msgstr ""
+
+#: includes/MigrateIntoGrowfund.php:249
+msgid "WP Crowdfunding is now Growfund."
+msgstr ""
+
+#: includes/MigrateIntoGrowfund.php:252
+msgid "To keep receiving updates and support, please migrate to Growfund."
+msgstr ""
+
+#: includes/MigrateIntoGrowfund.php:257
+msgid "Learn more"
+msgstr ""
+
+#: includes/MigrateIntoGrowfund.php:267
+msgid "Here’s what will happen when you migrate:"
+msgstr ""
+
+#: includes/MigrateIntoGrowfund.php:273
+msgid "Growfund will be automatically installed."
+msgstr ""
+
+#: includes/MigrateIntoGrowfund.php:279
+msgid "WP Crowdfunding will be deactivated."
+msgstr ""
+
+#: includes/MigrateIntoGrowfund.php:285
+msgid "Our support team will assist you throughout your journey."
+msgstr ""
+
+#: includes/MigrateIntoGrowfund.php:292
+msgid "I have backed up my site & agree to the consents above."
+msgstr ""
+
+#: includes/MigrateIntoGrowfund.php:301
+msgid "Migrate to Growfund"
+msgstr ""
+
+#: includes/MigrateIntoGrowfund.php:305
+msgid "Not ready yet"
 msgstr ""
 
 #: includes/register_api_hook.php:228, shortcode/Dashboard.php:133, includes/blocks/Dashboard.php:183
@@ -678,6 +722,10 @@ msgstr ""
 msgid "Successfully updated."
 msgstr ""
 
+#: includes/woocommerce/Actions.php:214
+msgid "You are not allowed to update this campaign."
+msgstr ""
+
 #: includes/woocommerce/Base.php:78
 msgid "Docs"
 msgstr ""
@@ -706,7 +754,7 @@ msgstr ""
 msgid "Thanks :)"
 msgstr ""
 
-#: includes/woocommerce/Common.php:44, includes/woocommerce/Common.php:55, includes/woocommerce/Common.php:113, includes/woocommerce/Dashboard.php:249
+#: includes/woocommerce/Common.php:44, includes/woocommerce/Common.php:55, includes/woocommerce/Common.php:113, includes/woocommerce/Dashboard.php:278
 msgid "Please Sign In first"
 msgstr ""
 
@@ -770,59 +818,67 @@ msgstr ""
 msgid "Raised Percent"
 msgstr ""
 
-#: includes/woocommerce/Dashboard.php:222, includes/woocommerce/Dashboard.php:297, includes/woocommerce/Reward.php:285, includes/woocommerce/Reward.php:304, includes/woocommerce/Woocommerce.php:144
+#: includes/woocommerce/Dashboard.php:222, includes/woocommerce/Dashboard.php:348, includes/woocommerce/Reward.php:285, includes/woocommerce/Reward.php:304, includes/woocommerce/Woocommerce.php:144
 msgid "Selected Reward"
 msgstr ""
 
-#: includes/woocommerce/Dashboard.php:238, wpcftemplate/woocommerce/basic/wpneo-functions.php:52
+#: includes/woocommerce/Dashboard.php:267, wpcftemplate/woocommerce/basic/wpneo-functions.php:52
 msgid "Invalid request!"
 msgstr ""
 
-#: includes/woocommerce/Dashboard.php:260
+#: includes/woocommerce/Dashboard.php:293
+msgid "Invalid order."
+msgstr ""
+
+#: includes/woocommerce/Dashboard.php:304
+msgid "You are not allowed to view this order."
+msgstr ""
+
+#: includes/woocommerce/Dashboard.php:311
 msgid "Order ID"
 msgstr ""
 
-#: includes/woocommerce/Dashboard.php:261
+#: includes/woocommerce/Dashboard.php:312
 msgid "Order Date"
 msgstr ""
 
-#: includes/woocommerce/Dashboard.php:262
+#: includes/woocommerce/Dashboard.php:313
 msgid "Order Status"
 msgstr ""
 
-#: includes/woocommerce/Dashboard.php:315
+#: includes/woocommerce/Dashboard.php:366
 msgid "Subtotal:"
 msgstr ""
 
-#: includes/woocommerce/Dashboard.php:320
+#: includes/woocommerce/Dashboard.php:371
 msgid "Payments Method:"
 msgstr ""
 
-#: includes/woocommerce/Dashboard.php:325
+#: includes/woocommerce/Dashboard.php:376
 msgid "Total:"
 msgstr ""
 
-#: includes/woocommerce/Dashboard.php:332
+#: includes/woocommerce/Dashboard.php:383
 msgid "Customer details"
 msgstr ""
 
-#: includes/woocommerce/Dashboard.php:336, woocommerce/emails/email-order-details.php:80
+#: includes/woocommerce/Dashboard.php:387, woocommerce/emails/email-order-details.php:80
 msgid "Note:"
 msgstr ""
 
-#: includes/woocommerce/Dashboard.php:342, includes/woocommerce/dashboard/contact.php:270, includes/woocommerce/dashboard/dashboard.php:59, includes/woocommerce/dashboard/profile.php:112
+#: includes/woocommerce/Dashboard.php:393, includes/woocommerce/dashboard/contact.php:270, includes/woocommerce/dashboard/dashboard.php:59, includes/woocommerce/dashboard/profile.php:112
 msgid "Email:"
 msgstr ""
 
-#: includes/woocommerce/Dashboard.php:348
+#: includes/woocommerce/Dashboard.php:399
 msgid "Phone:"
 msgstr ""
 
-#: includes/woocommerce/Dashboard.php:355
+#: includes/woocommerce/Dashboard.php:406
 msgid "Billing Address:"
 msgstr ""
 
-#: includes/woocommerce/Dashboard.php:357
+#: includes/woocommerce/Dashboard.php:408
 msgid "N/A"
 msgstr ""
 
@@ -882,35 +938,39 @@ msgstr ""
 msgid "Delivery"
 msgstr ""
 
-#: includes/woocommerce/Submit_Form.php:37
+#: includes/woocommerce/Submit_Form.php:44
 msgid "Sorry, your data did not verify."
 msgstr ""
 
-#: includes/woocommerce/Submit_Form.php:71
+#: includes/woocommerce/Submit_Form.php:56
+msgid "You are not allowed to submit campaigns."
+msgstr ""
+
+#: includes/woocommerce/Submit_Form.php:97
 msgid "Title required"
 msgstr ""
 
-#: includes/woocommerce/Submit_Form.php:74
+#: includes/woocommerce/Submit_Form.php:107
 msgid "Description required"
 msgstr ""
 
-#: includes/woocommerce/Submit_Form.php:77
+#: includes/woocommerce/Submit_Form.php:117
 msgid "Short Description required"
 msgstr ""
 
-#: includes/woocommerce/Submit_Form.php:80
+#: includes/woocommerce/Submit_Form.php:127
 msgid "Funding goal required"
 msgstr ""
 
-#: includes/woocommerce/Submit_Form.php:83
+#: includes/woocommerce/Submit_Form.php:137
 msgid "Please check terms condition"
 msgstr ""
 
-#: includes/woocommerce/Submit_Form.php:138
+#: includes/woocommerce/Submit_Form.php:200
 msgid "Campaign successfully submitted"
 msgstr ""
 
-#: includes/woocommerce/Submit_Form.php:133
+#: includes/woocommerce/Submit_Form.php:195
 msgid "Campaign successfully updated"
 msgstr ""
 
