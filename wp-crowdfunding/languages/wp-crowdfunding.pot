@@ -6,7 +6,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Creation-Date: 2026-08-07 06:22+0000\n"
+"POT-Creation-Date: 2026-09-02 09:58+0000\n"
 "X-Poedit-Basepath: ..\n"
 "X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
 "X-Poedit-SearchPath-0: .\n"
@@ -378,55 +378,55 @@ msgstr ""
 msgid "Reward Option"
 msgstr ""
 
-#: includes/register_api_hook.php:632, shortcode/Submit_Form.php:423, includes/woocommerce/Reward.php:84
+#: includes/register_api_hook.php:632, shortcode/Submit_Form.php:423, includes/woocommerce/Reward.php:147
 msgid "January"
 msgstr ""
 
-#: includes/register_api_hook.php:633, shortcode/Submit_Form.php:424, includes/woocommerce/Reward.php:85
+#: includes/register_api_hook.php:633, shortcode/Submit_Form.php:424, includes/woocommerce/Reward.php:148
 msgid "February"
 msgstr ""
 
-#: includes/register_api_hook.php:634, shortcode/Submit_Form.php:425, includes/woocommerce/Reward.php:86
+#: includes/register_api_hook.php:634, shortcode/Submit_Form.php:425, includes/woocommerce/Reward.php:149
 msgid "March"
 msgstr ""
 
-#: includes/register_api_hook.php:635, shortcode/Submit_Form.php:426, includes/woocommerce/Reward.php:87
+#: includes/register_api_hook.php:635, shortcode/Submit_Form.php:426, includes/woocommerce/Reward.php:150
 msgid "April"
 msgstr ""
 
-#: includes/register_api_hook.php:636, shortcode/Submit_Form.php:427, includes/woocommerce/Reward.php:88
+#: includes/register_api_hook.php:636, shortcode/Submit_Form.php:427, includes/woocommerce/Reward.php:151
 msgid "May"
 msgstr ""
 
-#: includes/register_api_hook.php:637, shortcode/Submit_Form.php:428, includes/woocommerce/Reward.php:89
+#: includes/register_api_hook.php:637, shortcode/Submit_Form.php:428, includes/woocommerce/Reward.php:152
 msgid "June"
 msgstr ""
 
-#: includes/register_api_hook.php:638, shortcode/Submit_Form.php:429, includes/woocommerce/Reward.php:90
+#: includes/register_api_hook.php:638, shortcode/Submit_Form.php:429, includes/woocommerce/Reward.php:153
 msgid "July"
 msgstr ""
 
-#: includes/register_api_hook.php:639, shortcode/Submit_Form.php:430, includes/woocommerce/Reward.php:91
+#: includes/register_api_hook.php:639, shortcode/Submit_Form.php:430, includes/woocommerce/Reward.php:154
 msgid "August"
 msgstr ""
 
-#: includes/register_api_hook.php:640, shortcode/Submit_Form.php:431, includes/woocommerce/Reward.php:92
+#: includes/register_api_hook.php:640, shortcode/Submit_Form.php:431, includes/woocommerce/Reward.php:155
 msgid "September"
 msgstr ""
 
-#: includes/register_api_hook.php:641, shortcode/Submit_Form.php:432, includes/woocommerce/Reward.php:93
+#: includes/register_api_hook.php:641, shortcode/Submit_Form.php:432, includes/woocommerce/Reward.php:156
 msgid "October"
 msgstr ""
 
-#: includes/register_api_hook.php:642, shortcode/Submit_Form.php:433, includes/woocommerce/Reward.php:94
+#: includes/register_api_hook.php:642, shortcode/Submit_Form.php:433, includes/woocommerce/Reward.php:157
 msgid "November"
 msgstr ""
 
-#: includes/register_api_hook.php:643, shortcode/Submit_Form.php:434, includes/woocommerce/Reward.php:95
+#: includes/register_api_hook.php:643, shortcode/Submit_Form.php:434, includes/woocommerce/Reward.php:158
 msgid "December"
 msgstr ""
 
-#: includes/register_api_hook.php:750, includes/register_api_hook.php:753, includes/register_api_hook.php:653, shortcode/Submit_Form.php:541, shortcode/Submit_Form.php:544, shortcode/Submit_Form.php:444, includes/woocommerce/Reward.php:47, includes/woocommerce/Reward.php:50
+#: includes/register_api_hook.php:750, includes/register_api_hook.php:753, includes/register_api_hook.php:653, shortcode/Submit_Form.php:541, shortcode/Submit_Form.php:544, shortcode/Submit_Form.php:444, includes/woocommerce/Reward.php:110, includes/woocommerce/Reward.php:113
 msgid "Pledge Amount"
 msgstr ""
 
@@ -438,19 +438,19 @@ msgstr ""
 msgid "Upload a reward image"
 msgstr ""
 
-#: includes/register_api_hook.php:773, includes/register_api_hook.php:680, shortcode/Submit_Form.php:564, shortcode/Submit_Form.php:471, includes/woocommerce/Reward.php:25, includes/woocommerce/Reward.php:69, settings/tabs/Tab_Fields.php:231
+#: includes/register_api_hook.php:773, includes/register_api_hook.php:680, shortcode/Submit_Form.php:564, shortcode/Submit_Form.php:471, includes/woocommerce/Reward.php:88, includes/woocommerce/Reward.php:132, settings/tabs/Tab_Fields.php:231
 msgid "Reward"
 msgstr ""
 
-#: includes/register_api_hook.php:776, shortcode/Submit_Form.php:567, includes/woocommerce/Reward.php:72
+#: includes/register_api_hook.php:776, shortcode/Submit_Form.php:567, includes/woocommerce/Reward.php:135
 msgid "Reward Description"
 msgstr ""
 
-#: includes/register_api_hook.php:786, includes/register_api_hook.php:693, shortcode/Submit_Form.php:577, shortcode/Submit_Form.php:484, includes/woocommerce/Reward.php:79, settings/tabs/Tab_Fields.php:240
+#: includes/register_api_hook.php:786, includes/register_api_hook.php:693, shortcode/Submit_Form.php:577, shortcode/Submit_Form.php:484, includes/woocommerce/Reward.php:142, settings/tabs/Tab_Fields.php:240
 msgid "Estimated Delivery Month"
 msgstr ""
 
-#: includes/register_api_hook.php:789, includes/register_api_hook.php:805, includes/register_api_hook.php:696, includes/register_api_hook.php:714, shortcode/Submit_Form.php:580, shortcode/Submit_Form.php:596, shortcode/Submit_Form.php:487, shortcode/Submit_Form.php:505, includes/woocommerce/Reward.php:83, includes/woocommerce/Reward.php:106
+#: includes/register_api_hook.php:789, includes/register_api_hook.php:805, includes/register_api_hook.php:696, includes/register_api_hook.php:714, shortcode/Submit_Form.php:580, shortcode/Submit_Form.php:596, shortcode/Submit_Form.php:487, shortcode/Submit_Form.php:505, includes/woocommerce/Reward.php:146, includes/woocommerce/Reward.php:169
 msgid "- Select -"
 msgstr ""
 
@@ -458,23 +458,23 @@ msgstr ""
 msgid "Estimated Delivery Month of the Reward"
 msgstr ""
 
-#: includes/register_api_hook.php:802, includes/register_api_hook.php:711, shortcode/Submit_Form.php:593, shortcode/Submit_Form.php:502, includes/woocommerce/Reward.php:102, settings/tabs/Tab_Fields.php:249
+#: includes/register_api_hook.php:802, includes/register_api_hook.php:711, shortcode/Submit_Form.php:593, shortcode/Submit_Form.php:502, includes/woocommerce/Reward.php:165, settings/tabs/Tab_Fields.php:249
 msgid "Estimated Delivery Year"
 msgstr ""
 
-#: includes/register_api_hook.php:814, includes/register_api_hook.php:720, shortcode/Submit_Form.php:610, shortcode/Submit_Form.php:511
+#: includes/register_api_hook.php:819, includes/register_api_hook.php:720, shortcode/Submit_Form.php:610, shortcode/Submit_Form.php:511
 msgid "Estimated Delivery Year of the Reward"
 msgstr ""
 
-#: includes/register_api_hook.php:822, includes/register_api_hook.php:728, shortcode/Submit_Form.php:618, shortcode/Submit_Form.php:519, includes/woocommerce/Reward.php:120, settings/tabs/Tab_Fields.php:258, woocommerce/emails/email-order-details.php:43
+#: includes/register_api_hook.php:827, includes/register_api_hook.php:728, shortcode/Submit_Form.php:618, shortcode/Submit_Form.php:519, includes/woocommerce/Reward.php:188, settings/tabs/Tab_Fields.php:258, woocommerce/emails/email-order-details.php:43
 msgid "Quantity"
 msgstr ""
 
-#: includes/register_api_hook.php:825, includes/register_api_hook.php:731, shortcode/Submit_Form.php:621, shortcode/Submit_Form.php:522
+#: includes/register_api_hook.php:830, includes/register_api_hook.php:731, shortcode/Submit_Form.php:621, shortcode/Submit_Form.php:522
 msgid "Quantity of physical products"
 msgstr ""
 
-#: includes/register_api_hook.php:831, includes/register_api_hook.php:737, shortcode/Submit_Form.php:627, shortcode/Submit_Form.php:528, includes/woocommerce/Reward.php:171, includes/woocommerce/Reward.php:222
+#: includes/register_api_hook.php:836, includes/register_api_hook.php:737, shortcode/Submit_Form.php:627, shortcode/Submit_Form.php:528, includes/woocommerce/Reward.php:239, includes/woocommerce/Reward.php:290
 msgid "- Remove"
 msgstr ""
 
@@ -486,23 +486,23 @@ msgstr ""
 msgid "Put the reward description here"
 msgstr ""
 
-#: includes/register_api_hook.php:847, shortcode/Submit_Form.php:643
+#: includes/register_api_hook.php:852, shortcode/Submit_Form.php:643
 msgid "+ Add"
 msgstr ""
 
-#: includes/register_api_hook.php:842, includes/woocommerce/Reward.php:231
+#: includes/register_api_hook.php:847, includes/woocommerce/Reward.php:299
 msgid "pro version is required to add more than 1 reward"
 msgstr ""
 
-#: includes/register_api_hook.php:842, shortcode/Submit_Form.php:638, includes/woocommerce/Reward.php:231
+#: includes/register_api_hook.php:847, shortcode/Submit_Form.php:638, includes/woocommerce/Reward.php:299
 msgid "click here to get pro version"
 msgstr ""
 
-#: includes/register_api_hook.php:876, shortcode/Submit_Form.php:673
+#: includes/register_api_hook.php:881, shortcode/Submit_Form.php:673
 msgid "Submit campaign"
 msgstr ""
 
-#: includes/register_api_hook.php:877, shortcode/Registration.php:140, shortcode/Submit_Form.php:674, includes/blocks/Registration.php:226, includes/woocommerce/dashboard/contact.php:287, includes/woocommerce/dashboard/dashboard.php:119, includes/woocommerce/dashboard/password.php:39, includes/woocommerce/dashboard/profile.php:224
+#: includes/register_api_hook.php:882, shortcode/Registration.php:140, shortcode/Submit_Form.php:674, includes/blocks/Registration.php:226, includes/woocommerce/dashboard/contact.php:287, includes/woocommerce/dashboard/dashboard.php:119, includes/woocommerce/dashboard/password.php:39, includes/woocommerce/dashboard/profile.php:224
 msgid "Cancel"
 msgstr ""
 
@@ -818,11 +818,11 @@ msgstr ""
 msgid "Raised Percent"
 msgstr ""
 
-#: includes/woocommerce/Dashboard.php:222, includes/woocommerce/Dashboard.php:348, includes/woocommerce/Reward.php:285, includes/woocommerce/Reward.php:304, includes/woocommerce/Woocommerce.php:144
+#: includes/woocommerce/Dashboard.php:222, includes/woocommerce/Dashboard.php:348, includes/woocommerce/Reward.php:353, includes/woocommerce/Reward.php:372, includes/woocommerce/Woocommerce.php:144
 msgid "Selected Reward"
 msgstr ""
 
-#: includes/woocommerce/Dashboard.php:267, wpcftemplate/woocommerce/basic/wpneo-functions.php:52
+#: includes/woocommerce/Dashboard.php:267, wpcftemplate/woocommerce/basic/wpneo-functions.php:60
 msgid "Invalid request!"
 msgstr ""
 
@@ -882,59 +882,79 @@ msgstr ""
 msgid "N/A"
 msgstr ""
 
-#: includes/woocommerce/Reward.php:58, includes/woocommerce/Reward.php:61
+#: includes/woocommerce/Reward.php:121, includes/woocommerce/Reward.php:124
 msgid "Image Field"
 msgstr ""
 
-#: includes/woocommerce/Reward.php:107
+#: includes/woocommerce/Reward.php:170
 msgid "2019"
 msgstr ""
 
-#: includes/woocommerce/Reward.php:108
+#: includes/woocommerce/Reward.php:171
 msgid "2020"
 msgstr ""
 
-#: includes/woocommerce/Reward.php:109
+#: includes/woocommerce/Reward.php:172
 msgid "2021"
 msgstr ""
 
-#: includes/woocommerce/Reward.php:110
+#: includes/woocommerce/Reward.php:173
 msgid "2022"
 msgstr ""
 
-#: includes/woocommerce/Reward.php:111
+#: includes/woocommerce/Reward.php:174
 msgid "2023"
 msgstr ""
 
-#: includes/woocommerce/Reward.php:112
+#: includes/woocommerce/Reward.php:175
 msgid "2024"
 msgstr ""
 
-#: includes/woocommerce/Reward.php:113
+#: includes/woocommerce/Reward.php:176
 msgid "2025"
 msgstr ""
 
-#: includes/woocommerce/Reward.php:123
+#: includes/woocommerce/Reward.php:177
+msgid "2026"
+msgstr ""
+
+#: includes/woocommerce/Reward.php:178
+msgid "2027"
+msgstr ""
+
+#: includes/woocommerce/Reward.php:179
+msgid "2028"
+msgstr ""
+
+#: includes/woocommerce/Reward.php:180
+msgid "2029"
+msgstr ""
+
+#: includes/woocommerce/Reward.php:181
+msgid "2030"
+msgstr ""
+
+#: includes/woocommerce/Reward.php:191
 msgid "Number of Rewards(Physical Product)"
 msgstr ""
 
-#: includes/woocommerce/Reward.php:161, includes/woocommerce/Reward.php:213, includes/woocommerce/dashboard/profile.php:40
+#: includes/woocommerce/Reward.php:229, includes/woocommerce/Reward.php:281, includes/woocommerce/dashboard/profile.php:40
 msgid "Upload"
 msgstr ""
 
-#: includes/woocommerce/Reward.php:236
+#: includes/woocommerce/Reward.php:304
 msgid "+ Add Reward"
 msgstr ""
 
-#: includes/woocommerce/Reward.php:291, includes/woocommerce/Reward.php:308, includes/woocommerce/Woocommerce.php:1047
+#: includes/woocommerce/Reward.php:359, includes/woocommerce/Reward.php:376, includes/woocommerce/Woocommerce.php:1038
 msgid "Amount"
 msgstr ""
 
-#: includes/woocommerce/Reward.php:291
+#: includes/woocommerce/Reward.php:359
 msgid ", Delivery"
 msgstr ""
 
-#: includes/woocommerce/Reward.php:309
+#: includes/woocommerce/Reward.php:377
 msgid "Delivery"
 msgstr ""
 
@@ -1030,7 +1050,7 @@ msgstr ""
 msgid "Reward Details: "
 msgstr ""
 
-#: includes/woocommerce/Woocommerce.php:159, includes/woocommerce/Woocommerce.php:911
+#: includes/woocommerce/Woocommerce.php:159, includes/woocommerce/Woocommerce.php:902
 msgid "Crowdfunding"
 msgstr ""
 
@@ -1162,59 +1182,59 @@ msgstr ""
 msgid "+ Add Update"
 msgstr ""
 
-#: includes/woocommerce/Woocommerce.php:566
+#: includes/woocommerce/Woocommerce.php:557
 msgid "This campaign has been end"
 msgstr ""
 
-#: includes/woocommerce/Woocommerce.php:802
+#: includes/woocommerce/Woocommerce.php:793
 msgid "Make me anonymous"
 msgstr ""
 
-#: includes/woocommerce/Woocommerce.php:869
+#: includes/woocommerce/Woocommerce.php:860
 msgid "Is Crowdfunding Category"
 msgstr ""
 
-#: includes/woocommerce/Woocommerce.php:920
+#: includes/woocommerce/Woocommerce.php:911
 msgid "Yes"
 msgstr ""
 
-#: includes/woocommerce/Woocommerce.php:960
+#: includes/woocommerce/Woocommerce.php:951
 msgid "Date expired"
 msgstr ""
 
-#: includes/woocommerce/Woocommerce.php:970
+#: includes/woocommerce/Woocommerce.php:961
 msgid "Location: "
 msgstr ""
 
-#: includes/woocommerce/Woocommerce.php:976
+#: includes/woocommerce/Woocommerce.php:967
 msgid "Funding Goal: "
 msgstr ""
 
-#: includes/woocommerce/Woocommerce.php:982
+#: includes/woocommerce/Woocommerce.php:973
 msgid "Raised: "
 msgstr ""
 
-#: includes/woocommerce/Woocommerce.php:989
+#: includes/woocommerce/Woocommerce.php:980
 msgid "Funded percent: "
 msgstr ""
 
-#: includes/woocommerce/Woocommerce.php:1015
+#: includes/woocommerce/Woocommerce.php:1006
 msgid "Backed User"
 msgstr ""
 
-#: includes/woocommerce/Woocommerce.php:1076
+#: includes/woocommerce/Woocommerce.php:1067
 msgid "Sorry, no posts matched your criteria."
 msgstr ""
 
-#: includes/woocommerce/Woocommerce.php:1044
+#: includes/woocommerce/Woocommerce.php:1035
 msgid "ID"
 msgstr ""
 
-#: includes/woocommerce/Woocommerce.php:1045, wpcftemplate/woocommerce/basic/include/tabs/baker-list-tab.php:12
+#: includes/woocommerce/Woocommerce.php:1036, wpcftemplate/woocommerce/basic/include/tabs/baker-list-tab.php:12
 msgid "Name"
 msgstr ""
 
-#: includes/woocommerce/Woocommerce.php:1046, settings/view/Addons.php:130
+#: includes/woocommerce/Woocommerce.php:1037, settings/view/Addons.php:130
 msgid "Email"
 msgstr ""
 
@@ -1991,7 +2011,7 @@ msgstr ""
 msgid "User Bio:"
 msgstr ""
 
-#: includes/woocommerce/dashboard/profile.php:99, wpcftemplate/woocommerce/basic/wpneo-functions.php:103
+#: includes/woocommerce/dashboard/profile.php:99, wpcftemplate/woocommerce/basic/wpneo-functions.php:111
 msgid "Contact Info"
 msgstr ""
 
@@ -2039,7 +2059,7 @@ msgstr ""
 msgid "Campaign Name / Reward Amount"
 msgstr ""
 
-#: includes/woocommerce/dashboard/rewards.php:64, wpcftemplate/woocommerce/basic/include/tabs/rewards-sidebar-form.php:64
+#: includes/woocommerce/dashboard/rewards.php:64, wpcftemplate/woocommerce/basic/include/tabs/rewards-sidebar-form.php:67
 msgid "Estimated Delivery"
 msgstr ""
 
@@ -2095,7 +2115,7 @@ msgstr ""
 msgid "Pledge Received"
 msgstr ""
 
-#: wpcftemplate/woocommerce/basic/author-campaigns.php:15
+#: wpcftemplate/woocommerce/basic/author-campaigns.php:14
 msgid "Campaigns by Author"
 msgstr ""
 
@@ -2103,47 +2123,47 @@ msgstr ""
 msgid "Campaigns by: "
 msgstr ""
 
-#: wpcftemplate/woocommerce/basic/wpneo-functions.php:85
+#: wpcftemplate/woocommerce/basic/wpneo-functions.php:93
 msgid " Campaigns"
 msgstr ""
 
-#: wpcftemplate/woocommerce/basic/wpneo-functions.php:85
+#: wpcftemplate/woocommerce/basic/wpneo-functions.php:93
 msgid " Loved campaigns"
 msgstr ""
 
-#: wpcftemplate/woocommerce/basic/wpneo-functions.php:90
+#: wpcftemplate/woocommerce/basic/wpneo-functions.php:98
 msgid "Profile Information"
 msgstr ""
 
-#: wpcftemplate/woocommerce/basic/wpneo-functions.php:97
+#: wpcftemplate/woocommerce/basic/wpneo-functions.php:105
 msgid "Portfolio"
 msgstr ""
 
-#: wpcftemplate/woocommerce/basic/wpneo-functions.php:105
+#: wpcftemplate/woocommerce/basic/wpneo-functions.php:113
 msgid "Email: "
 msgstr ""
 
-#: wpcftemplate/woocommerce/basic/wpneo-functions.php:108
+#: wpcftemplate/woocommerce/basic/wpneo-functions.php:116
 msgid "Phone: "
 msgstr ""
 
-#: wpcftemplate/woocommerce/basic/wpneo-functions.php:111
+#: wpcftemplate/woocommerce/basic/wpneo-functions.php:119
 msgid "Fax: "
 msgstr ""
 
-#: wpcftemplate/woocommerce/basic/wpneo-functions.php:114
+#: wpcftemplate/woocommerce/basic/wpneo-functions.php:123
 msgid "Website: "
 msgstr ""
 
-#: wpcftemplate/woocommerce/basic/wpneo-functions.php:117
+#: wpcftemplate/woocommerce/basic/wpneo-functions.php:126
 msgid "Contact Me"
 msgstr ""
 
-#: wpcftemplate/woocommerce/basic/wpneo-functions.php:122
+#: wpcftemplate/woocommerce/basic/wpneo-functions.php:131
 msgid "Social Link"
 msgstr ""
 
-#: wpcftemplate/woocommerce/basic/wpneo-functions.php:140
+#: wpcftemplate/woocommerce/basic/wpneo-functions.php:149
 msgid "About the campaign creator"
 msgstr ""
 
@@ -2219,34 +2239,34 @@ msgstr ""
 msgid "Anonymous"
 msgstr ""
 
-#: wpcftemplate/woocommerce/basic/include/tabs/rewards-sidebar-form.php:45
+#: wpcftemplate/woocommerce/basic/include/tabs/rewards-sidebar-form.php:48
 msgid " or more"
 msgstr ""
 
-#: wpcftemplate/woocommerce/basic/include/tabs/rewards-sidebar-form.php:120
+#: wpcftemplate/woocommerce/basic/include/tabs/rewards-sidebar-form.php:123
 msgid "Campaign is not started."
 msgstr ""
 
-#: wpcftemplate/woocommerce/basic/include/tabs/rewards-sidebar-form.php:118
+#: wpcftemplate/woocommerce/basic/include/tabs/rewards-sidebar-form.php:121
 msgid "Reward is not valid."
 msgstr ""
 
-#: wpcftemplate/woocommerce/basic/include/tabs/rewards-sidebar-form.php:115
+#: wpcftemplate/woocommerce/basic/include/tabs/rewards-sidebar-form.php:118
 msgid "Campaign already completed."
 msgstr ""
 
-#: wpcftemplate/woocommerce/basic/include/tabs/rewards-sidebar-form.php:103, wpcftemplate/woocommerce/basic/include/tabs/rewards-sidebar-form.php:86
+#: wpcftemplate/woocommerce/basic/include/tabs/rewards-sidebar-form.php:106, wpcftemplate/woocommerce/basic/include/tabs/rewards-sidebar-form.php:89
 msgid "Select Reward"
 msgstr ""
 
-#: wpcftemplate/woocommerce/basic/include/tabs/rewards-sidebar-form.php:95, wpcftemplate/woocommerce/basic/include/tabs/rewards-sidebar-form.php:78
+#: wpcftemplate/woocommerce/basic/include/tabs/rewards-sidebar-form.php:98, wpcftemplate/woocommerce/basic/include/tabs/rewards-sidebar-form.php:81
 msgid "Reward no longer available."
 msgstr ""
 
-#: wpcftemplate/woocommerce/basic/include/tabs/rewards-sidebar-form.php:132
+#: wpcftemplate/woocommerce/basic/include/tabs/rewards-sidebar-form.php:135
 msgid "backers"
 msgstr ""
 
-#: wpcftemplate/woocommerce/basic/include/tabs/rewards-sidebar-form.php:139
+#: wpcftemplate/woocommerce/basic/include/tabs/rewards-sidebar-form.php:142
 msgid " rewards left"
 msgstr ""
